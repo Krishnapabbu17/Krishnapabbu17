@@ -7,7 +7,12 @@ I am a high school student interested in artificial intelligence, machine learni
 - Conducted research on autism detection using linguistic features and statistical language properties
 - Explored Zipf’s law and other text-based features for classification
 - Applied machine learning models to speech/text data
-- Outcome: written research paper (available upon request)
+- Outcome: published research paper in the American Journal of Student Research (AJOSR)
+
+**Motor Imbalance Detection (Published Research)**
+- Built an Arduino/MPU6050 vibration-data system to study five motor-imbalance levels
+- Analyzed 38,195 sensor readings, engineered features, and investigated data leakage during machine-learning evaluation
+- Outcome: published research paper in the American Journal of Student Research (AJOSR)
 
 ## Applied Projects
 **Diamond Cut Quality Classification (Data Science)**
